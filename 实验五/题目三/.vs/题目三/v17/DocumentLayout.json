@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\35656\\Desktop\\\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E94\\\u9898\u76EE\u4E09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5131326A-159F-446E-8F44-0A3A619F9C43}|\u9898\u76EE\u4E09.vcxproj|C:\\Users\\35656\\Desktop\\\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E94\\\u9898\u76EE\u4E09\\FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5131326A-159F-446E-8F44-0A3A619F9C43}|\u9898\u76EE\u4E09.vcxproj|solutionrelative:FileName.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.cpp",
+              "DocumentMoniker": "C:\\Users\\35656\\Desktop\\\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E94\\\u9898\u76EE\u4E09\\FileName.cpp",
+              "RelativeDocumentMoniker": "FileName.cpp",
+              "ToolTip": "C:\\Users\\35656\\Desktop\\\u5B9E\u9A8C\\\u5B9E\u9A8C\u4E94\\\u9898\u76EE\u4E09\\FileName.cpp",
+              "RelativeToolTip": "FileName.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T11:26:59.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
